@@ -29,6 +29,6 @@
             "parse-accept-language",
         ]
     },
-    "development_status": "Beta",
+    # "development_status": "Beta",
     "installable": True,
 }
